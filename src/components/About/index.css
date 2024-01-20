@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-pic {
+  height: 200px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.about-name {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.about-para {
+  color: #555555;
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
